@@ -71,6 +71,7 @@ p{
 
 }
 
+
 .bar__ball{
     height: 1.5rem;
     width: 1.5rem;
@@ -80,6 +81,10 @@ p{
 }
 
 
+.bar__ball:hover{
+    background-color: white;
+    border: 3px solid white;
+}
 
 
 .img{
